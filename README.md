@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @JedidiahMusa
-- 👀 I’m interested in front end web development
-- 🌱 I’m currently learning node js
-- 💞️ I’m looking to collaborate on any web development project
-- 📫 How to reach me ✉️jeididahsimon3@gmail.com
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Jedidiah Musa, i'm a passionate **Front-End Developer** who loves building responsive, interactive, and user-friendly web applications.  
+Currently, I'm expanding my skills by diving into **Back-End Development** to become a well-rounded **Full-Stack Developer**. 
 
-<!---
-JedidiahMusa/JedidiahMusa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### ✨ Languages and Tools:
+
+<p>
+  <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img align="left" alt="Tailwind CSS" width="40px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
+  <img align="left" alt="GSAP" width="40px" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/gsap.svg" />
+  <img align="left" alt="Framer Motion" width="40px" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/framer-motion.svg" />
+  <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+</p>
+
+<br><br>
