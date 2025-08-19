@@ -9,8 +9,8 @@ Currently, I'm expanding my skills by diving into **Back-End Development** to be
   <img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
   <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img align="left" alt="Tailwind CSS" width="40px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
-  <img align="left" alt="GSAP" width="40px" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/gsap.svg" />
-  <img align="left" alt="Framer Motion" width="40px" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/framer-motion.svg" />
+  <img align="left" alt="GSAP" width="40px" src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" />
+  <img align="left" alt="Framer Motion" width="40px" src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" />
   <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
 </p>
 
