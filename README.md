@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JedidiahMusa
 - 👀 I’m interested in front end web development
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning node js
 - 💞️ I’m looking to collaborate on any web development project
 - 📫 How to reach me ✉️jeididahsimon3@gmail.com
 - 😄 Pronouns: He/Him/His
