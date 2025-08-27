@@ -12,9 +12,9 @@ Currently, I'm expanding my skills by diving into **Back-End Development** to be
   <img align="left" alt="GSAP" width="40px" src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" />
   <img align="left" alt="Framer Motion" width="40px" src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" />
   <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-  <img align="left" alt="Express" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" style="background:white; padding:5px; border-radius:6px;" />
+ <img align="left" alt="Express" width="40px" src="https://cdn.simpleicons.org/express/000/fff" />
   <img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
-  <img align="left" alt="EJS" width="40px" src="https://seeklogo.com/images/E/ejs-logo-607D9549A0-seeklogo.com.png" />
+  <img align="left" alt="EJS" width="40px" src="https://cdn.simpleicons.org/ejs/8BC34A/ffffff" />
 </p>
 
 
