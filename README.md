@@ -12,6 +12,10 @@ Currently, I'm expanding my skills by diving into **Back-End Development** to be
   <img align="left" alt="GSAP" width="40px" src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" />
   <img align="left" alt="Framer Motion" width="40px" src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" />
   <img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+  <img align="left" alt="Express" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
+  <img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
+  <img align="left" alt="EJS" width="40px" src="https://cdn.worldvectorlogo.com/logos/ejs-1.svg" />
 </p>
+
 
 <br><br>
