@@ -19,4 +19,10 @@ Currently, I'm expanding my skills by diving into **Back-End Development** to be
 
 
 
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JedidiahMusa&layout=compact&theme=radical)
+
+
+
 <br><br>
